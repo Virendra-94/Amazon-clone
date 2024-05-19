@@ -1,7 +1,7 @@
 # Amazon Clone
 
-Welcome to my Amazon clone project! This website is a replica of the popular e-commerce platform, Amazon, built using React.js and Firebase as the backend.
-
+--> Welcome to my Amazon clone project! This website is a replica of the popular e-commerce platform, Amazon, built using React.js and Firebase as the backend.
+--> This is a Contribution project on which I have worked on the frontend part of the project. 
 ## Live Demo
 
 You can access the live demo of the website at: [Amazon Clone](https://amazon-clone-by-virendra.vercel.app/)
